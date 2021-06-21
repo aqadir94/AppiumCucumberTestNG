@@ -1,0 +1,148 @@
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:25:03.126 ServerManager:20 - starting appium server
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:25:58.304 ServerManager:29 - Appium server started
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:25:58.485 DriverManager:35 - Initializing driver
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:25:58.621 CapabilitiesManager:40 - App url is C:\Users\Qadir\eclipse-workspace\Selenium Udemy\CucumberFramework\src\test\resources\apps\Saucelabs.apk
+[Android_Android_Pixel4 FATAL] 2021-06-19 11:27:11.015 DriverManager:65 - Driver initializtion failure org.openqa.selenium.SessionNotCreatedException: Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: The instrumentation process cannot be initialized within 30000ms timeout. Make sure the application under test does not crash and investigate the logcat output. You could also try to increase the value of 'uiautomator2ServerLaunchTimeout' capability
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-RNF7R3U9', ip: '192.168.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '10.0.2'
+Driver info: driver.version: AndroidDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: The instrumentation process cannot be initialized within 30000ms timeout. Make sure the application under test does not crash and investigate the logcat output. You could also try to increase the value of 'uiautomator2ServerLaunchTimeout' capability
+    at getResponseForW3CError (C:\Users\Qadir\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Qadir\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:380:37)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-RNF7R3U9', ip: '192.168.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '10.0.2'
+Driver info: driver.version: AndroidDriver
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:29:53.249 ServerManager:20 - starting appium server
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:29:57.804 ServerManager:29 - Appium server started
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:29:57.848 DriverManager:35 - Initializing driver
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:29:57.878 CapabilitiesManager:40 - App url is C:\Users\Qadir\eclipse-workspace\Selenium Udemy\CucumberFramework\src\test\resources\apps\Saucelabs.apk
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:30:28.369 DriverManager:57 - Driver is initialized
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:31:14.305 VideoManager:36 - video path: Android_Android_Pixel4\Videos\Login with invalid user name.mp4
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:31:38.586 ServerManager:20 - starting appium server
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:31:41.593 ServerManager:29 - Appium server started
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:31:41.629 DriverManager:35 - Initializing driver
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:31:41.661 CapabilitiesManager:40 - App url is C:\Users\Qadir\eclipse-workspace\Selenium Udemy\CucumberFramework\src\test\resources\apps\Saucelabs.apk
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:32:09.850 DriverManager:57 - Driver is initialized
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:32:17.148 BasePage:74 - login with InvalidUserName
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:32:19.067 BasePage:74 - password is secret_sauce
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:32:20.227 BasePage:57 - press login button
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:32:22.915 BasePage:100 - error text is - Username and password do not match any user in this service.
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:32:24.451 VideoManager:36 - video path: Android_Android_Pixel4\Videos\Login with invalid user name.mp4
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:33:07.171 ServerManager:20 - starting appium server
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:33:12.086 ServerManager:29 - Appium server started
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:33:12.122 DriverManager:35 - Initializing driver
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:33:12.152 CapabilitiesManager:40 - App url is C:\Users\Qadir\eclipse-workspace\Selenium Udemy\CucumberFramework\src\test\resources\apps\Saucelabs.apk
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:33:31.967 DriverManager:57 - Driver is initialized
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:33:36.001 BasePage:74 - login with InvalidUserName
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:33:38.391 BasePage:74 - password is secret_sauce
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:33:39.578 BasePage:57 - press login button
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:33:40.559 BasePage:100 - error text is - Username and password do not match any user in this service.
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:33:41.415 VideoManager:36 - video path: Android_Android_Pixel4\Videos\Login with invalid user name.mp4
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:39:54.867 ServerManager:20 - starting appium server
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:40:08.106 ServerManager:29 - Appium server started
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:40:08.153 DriverManager:35 - Initializing driver
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:40:08.197 CapabilitiesManager:40 - App url is C:\Users\Qadir\eclipse-workspace\Selenium Udemy\CucumberFramework\src\test\resources\apps\Saucelabs.apk
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:40:28.482 DriverManager:57 - Driver is initialized
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:40:32.157 BasePage:74 - login with InvalidUserName
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:41:06.868 ServerManager:20 - starting appium server
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:41:11.148 ServerManager:29 - Appium server started
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:41:11.190 DriverManager:35 - Initializing driver
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:41:11.221 CapabilitiesManager:40 - App url is C:\Users\Qadir\eclipse-workspace\Selenium Udemy\CucumberFramework\src\test\resources\apps\Saucelabs.apk
+[Android_Android_Pixel4 FATAL] 2021-06-19 11:41:23.394 DriverManager:65 - Driver initializtion failure org.openqa.selenium.SessionNotCreatedException: Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-RNF7R3U9', ip: '192.168.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '10.0.2'
+Driver info: driver.version: AndroidDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: socket hang up
+    at UIA2Proxy.command (C:\Users\Qadir\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:275:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-RNF7R3U9', ip: '192.168.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '10.0.2'
+Driver info: driver.version: AndroidDriver
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:41:47.046 ServerManager:20 - starting appium server
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:41:50.018 ServerManager:29 - Appium server started
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:41:50.057 DriverManager:35 - Initializing driver
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:41:50.089 CapabilitiesManager:40 - App url is C:\Users\Qadir\eclipse-workspace\Selenium Udemy\CucumberFramework\src\test\resources\apps\Saucelabs.apk
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:42:08.669 DriverManager:57 - Driver is initialized
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:42:13.322 BasePage:74 - login with InvalidUserName
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:42:15.660 BasePage:74 - password is secret_sauce
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:42:16.350 BasePage:57 - press login button
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:42:17.276 BasePage:100 - error text is - Username and password do not match any user in this service.
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:42:20.053 VideoManager:36 - video path: Android_Android_Pixel4\Videos\Login with invalid user name.mp4
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:42:49.921 ServerManager:20 - starting appium server
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:42:55.853 ServerManager:29 - Appium server started
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:42:55.894 DriverManager:35 - Initializing driver
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:42:55.920 CapabilitiesManager:40 - App url is C:\Users\Qadir\eclipse-workspace\Selenium Udemy\CucumberFramework\src\test\resources\apps\Saucelabs.apk
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:43:05.746 DriverManager:57 - Driver is initialized
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:44:14.033 ServerManager:20 - starting appium server
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:44:18.029 ServerManager:29 - Appium server started
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:44:18.065 DriverManager:35 - Initializing driver
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:44:18.097 CapabilitiesManager:40 - App url is C:\Users\Qadir\eclipse-workspace\Selenium Udemy\CucumberFramework\src\test\resources\apps\Saucelabs.apk
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:44:26.321 DriverManager:57 - Driver is initialized
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:49:06.770 ServerManager:20 - starting appium server
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:49:11.777 ServerManager:29 - Appium server started
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:49:11.836 DriverManager:35 - Initializing driver
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:49:11.880 CapabilitiesManager:40 - App url is C:\Users\Qadir\eclipse-workspace\Selenium Udemy\CucumberFramework\src\test\resources\apps\Saucelabs.apk
+[Android_Android_Pixel4 FATAL] 2021-06-19 11:49:52.035 DriverManager:65 - Driver initializtion failure org.openqa.selenium.SessionNotCreatedException: Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: The instrumentation process cannot be initialized within 30000ms timeout. Make sure the application under test does not crash and investigate the logcat output. You could also try to increase the value of 'uiautomator2ServerLaunchTimeout' capability
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-RNF7R3U9', ip: '192.168.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '10.0.2'
+Driver info: driver.version: AndroidDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: The instrumentation process cannot be initialized within 30000ms timeout. Make sure the application under test does not crash and investigate the logcat output. You could also try to increase the value of 'uiautomator2ServerLaunchTimeout' capability
+    at getResponseForW3CError (C:\Users\Qadir\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Qadir\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:380:37)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-RNF7R3U9', ip: '192.168.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '10.0.2'
+Driver info: driver.version: AndroidDriver
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:56:35.730 ServerManager:20 - starting appium server
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:57:05.559 ServerManager:29 - Appium server started
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:57:05.698 DriverManager:35 - Initializing driver
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:57:05.768 CapabilitiesManager:40 - App url is C:\Users\Qadir\eclipse-workspace\Selenium Udemy\CucumberFramework\src\test\resources\apps\Saucelabs.apk
+[Android_Android_Pixel4 FATAL] 2021-06-19 11:58:31.051 DriverManager:65 - Driver initializtion failure org.openqa.selenium.SessionNotCreatedException: Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: The instrumentation process cannot be initialized within 30000ms timeout. Make sure the application under test does not crash and investigate the logcat output. You could also try to increase the value of 'uiautomator2ServerLaunchTimeout' capability
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-RNF7R3U9', ip: '192.168.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '10.0.2'
+Driver info: driver.version: AndroidDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: The instrumentation process cannot be initialized within 30000ms timeout. Make sure the application under test does not crash and investigate the logcat output. You could also try to increase the value of 'uiautomator2ServerLaunchTimeout' capability
+    at getResponseForW3CError (C:\Users\Qadir\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Qadir\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:380:37)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-RNF7R3U9', ip: '192.168.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '10.0.2'
+Driver info: driver.version: AndroidDriver
+[Android_Android_Pixel4 INFO ] 2021-06-19 11:59:48.254 ServerManager:20 - starting appium server
+[Android_Android_Pixel4 INFO ] 2021-06-19 12:00:57.542 ServerManager:29 - Appium server started
+[Android_Android_Pixel4 INFO ] 2021-06-19 12:00:57.605 DriverManager:35 - Initializing driver
+[Android_Android_Pixel4 INFO ] 2021-06-19 12:00:57.675 CapabilitiesManager:40 - App url is C:\Users\Qadir\eclipse-workspace\Selenium Udemy\CucumberFramework\src\test\resources\apps\Saucelabs.apk
+[Android_Android_Pixel4 FATAL] 2021-06-19 12:02:15.655 DriverManager:65 - Driver initializtion failure org.openqa.selenium.SessionNotCreatedException: Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: The instrumentation process cannot be initialized within 30000ms timeout. Make sure the application under test does not crash and investigate the logcat output. You could also try to increase the value of 'uiautomator2ServerLaunchTimeout' capability
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-RNF7R3U9', ip: '192.168.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '10.0.2'
+Driver info: driver.version: AndroidDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: The instrumentation process cannot be initialized within 30000ms timeout. Make sure the application under test does not crash and investigate the logcat output. You could also try to increase the value of 'uiautomator2ServerLaunchTimeout' capability
+    at getResponseForW3CError (C:\Users\Qadir\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Qadir\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:380:37)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-RNF7R3U9', ip: '192.168.2.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '10.0.2'
+Driver info: driver.version: AndroidDriver
+[Android_Android_Pixel4 INFO ] 2021-06-19 12:06:59.012 ServerManager:20 - starting appium server
+[Android_Android_Pixel4 INFO ] 2021-06-19 12:07:02.332 ServerManager:29 - Appium server started
+[Android_Android_Pixel4 INFO ] 2021-06-19 12:07:02.370 DriverManager:35 - Initializing driver
+[Android_Android_Pixel4 INFO ] 2021-06-19 12:07:02.409 CapabilitiesManager:40 - App url is C:\Users\Qadir\eclipse-workspace\Selenium Udemy\CucumberFramework\src\test\resources\apps\Saucelabs.apk
+[Android_Android_Pixel4 INFO ] 2021-06-19 12:07:22.040 DriverManager:57 - Driver is initialized
+[Android_Android_Pixel4 INFO ] 2021-06-19 12:07:27.427 VideoManager:36 - video path: Android_Android_Pixel4\Videos\Login with invalid user name.mp4
+[Android_Android_Pixel4 INFO ] 2021-06-19 12:07:57.893 ServerManager:20 - starting appium server
+[Android_Android_Pixel4 INFO ] 2021-06-19 12:08:01.402 ServerManager:29 - Appium server started
+[Android_Android_Pixel4 INFO ] 2021-06-19 12:08:01.435 DriverManager:35 - Initializing driver
+[Android_Android_Pixel4 INFO ] 2021-06-19 12:08:01.465 CapabilitiesManager:40 - App url is C:\Users\Qadir\eclipse-workspace\Selenium Udemy\CucumberFramework\src\test\resources\apps\Saucelabs.apk
+[Android_Android_Pixel4 INFO ] 2021-06-19 12:08:17.229 DriverManager:57 - Driver is initialized
+[Android_Android_Pixel4 INFO ] 2021-06-19 12:08:21.433 BasePage:74 - login with InvalidUserName
+[Android_Android_Pixel4 INFO ] 2021-06-19 12:08:22.808 BasePage:74 - password is secret_sauce
+[Android_Android_Pixel4 INFO ] 2021-06-19 12:08:23.936 BasePage:57 - press login button
+[Android_Android_Pixel4 INFO ] 2021-06-19 12:08:25.206 BasePage:100 - error text is - Username and password do not match any user in this service.
+[Android_Android_Pixel4 INFO ] 2021-06-19 12:08:26.142 VideoManager:36 - video path: Android_Android_Pixel4\Videos\Login with invalid user name.mp4
+[Android_Android_Pixel4 INFO ] 2021-06-19 12:08:47.059 ServerManager:20 - starting appium server
+[Android_Android_Pixel4 INFO ] 2021-06-19 12:08:49.958 ServerManager:29 - Appium server started
+[Android_Android_Pixel4 INFO ] 2021-06-19 12:08:49.993 DriverManager:35 - Initializing driver
+[Android_Android_Pixel4 INFO ] 2021-06-19 12:08:50.022 CapabilitiesManager:40 - App url is C:\Users\Qadir\eclipse-workspace\Selenium Udemy\CucumberFramework\src\test\resources\apps\Saucelabs.apk
+[Android_Android_Pixel4 INFO ] 2021-06-19 12:09:03.478 DriverManager:57 - Driver is initialized
+[Android_Android_Pixel4 INFO ] 2021-06-19 12:09:10.349 BasePage:74 - login with InvalidUserName
+[Android_Android_Pixel4 INFO ] 2021-06-19 12:09:12.089 BasePage:74 - password is secret_sauce
+[Android_Android_Pixel4 INFO ] 2021-06-19 12:09:13.226 BasePage:57 - press login button
+[Android_Android_Pixel4 INFO ] 2021-06-19 12:09:16.232 BasePage:100 - error text is - Username and password do not match any user in this service.
+[Android_Android_Pixel4 INFO ] 2021-06-19 12:09:19.967 VideoManager:36 - video path: Android_Android_Pixel4\Videos\Login with invalid user name.mp4

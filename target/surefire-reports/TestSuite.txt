@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 83.8 s <<< FAILURE! - in TestSuite
+com.qa.runners.MyTestNGRunnerGalaxy9Test.scenario["Login with invalid user name", "Optional[Login Scenarios]"](1)  Time elapsed: 10.188 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[]Username and passwor...> but was:<[gg]Username and passwor...>
+
+com.qa.runners.MyTestNGRunnerPixelTest.scenario["Login with invalid user name", "Optional[Login Scenarios]"](1)  Time elapsed: 17.382 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[]Username and passwor...> but was:<[gg]Username and passwor...>
+

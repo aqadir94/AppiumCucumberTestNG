@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="0" failed="2" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-21T17:55:29 EDT" name="Suite" finished-at="2021-06-21T17:56:51 EDT" duration-ms="81747">
+    <groups>
+      <group name="cucumber">
+        <method signature="RunnerBase.scenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.qa.runners.MyTestNGRunnerGalaxy9Test@2ed2d9cb]" name="scenario" class="com.qa.runners.RunnerBase"/>
+        <method signature="RunnerBase.scenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.qa.runners.MyTestNGRunnerPixelTest@4659191b]" name="scenario" class="com.qa.runners.RunnerBase"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2021-06-21T17:55:29 EDT" name="AndroidRealDevice" finished-at="2021-06-21T17:56:27 EDT" duration-ms="58277">
+      <class name="com.qa.runners.MyTestNGRunnerGalaxy9Test">
+        <test-method is-config="true" signature="setUpClass(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.qa.runners.MyTestNGRunnerGalaxy9Test@2ed2d9cb]" started-at="2021-06-21T17:55:29 EDT" name="setUpClass" finished-at="2021-06-21T17:56:13 EDT" duration-ms="43291" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[50584a424e443498]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Android]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Galaxy S9]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[10000]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[110000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="scenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.qa.runners.MyTestNGRunnerGalaxy9Test@2ed2d9cb]" started-at="2021-06-21T17:56:13 EDT" name="scenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-06-21T17:56:23 EDT" duration-ms="10167" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Login with invalid user name"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Login Scenarios]"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.junit.ComparisonFailure">
+            <message>
+              <![CDATA[expected:<[]Username and passwor...> but was:<[gg]Username and passwor...>]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.junit.ComparisonFailure: expected:<[]Username and passwor...> but was:<[gg]Username and passwor...>
+at org.junit.Assert.assertEquals(Assert.java:115)
+at org.junit.Assert.assertEquals(Assert.java:144)
+at com.qa.stepdef.LogInStepDef.theMessageShouldBeDisplayed(LogInStepDef.java:34)
+at ✽.the "ggUsername and password do not match any user in this service." message should be displayed(file:///C:/Users/Qadir/eclipse-workspace/Selenium%20Udemy/CucumberFramework-%20TestNG/src/test/resources/Login.feature:7)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.junit.ComparisonFailure -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.qa.runners.MyTestNGRunnerGalaxy9Test@2ed2d9cb]" started-at="2021-06-21T17:56:23 EDT" name="tearDownClass" finished-at="2021-06-21T17:56:27 EDT" duration-ms="4651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.qa.runners.MyTestNGRunnerGalaxy9Test -->
+    </test> <!-- AndroidRealDevice -->
+    <test started-at="2021-06-21T17:55:29 EDT" name="AndroidEmulator" finished-at="2021-06-21T17:56:51 EDT" duration-ms="81747">
+      <class name="com.qa.runners.MyTestNGRunnerPixelTest">
+        <test-method is-config="true" signature="setUpClass(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.qa.runners.MyTestNGRunnerPixelTest@4659191b]" started-at="2021-06-21T17:55:29 EDT" name="setUpClass" finished-at="2021-06-21T17:56:32 EDT" duration-ms="62718" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[emulator-5554]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Android]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Android_Pixel4]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[10001]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[110001]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="scenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.qa.runners.MyTestNGRunnerPixelTest@4659191b]" started-at="2021-06-21T17:56:32 EDT" name="scenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-06-21T17:56:49 EDT" duration-ms="17528" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Login with invalid user name"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Login Scenarios]"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.junit.ComparisonFailure">
+            <message>
+              <![CDATA[expected:<[]Username and passwor...> but was:<[gg]Username and passwor...>]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.junit.ComparisonFailure: expected:<[]Username and passwor...> but was:<[gg]Username and passwor...>
+at org.junit.Assert.assertEquals(Assert.java:115)
+at org.junit.Assert.assertEquals(Assert.java:144)
+at com.qa.stepdef.LogInStepDef.theMessageShouldBeDisplayed(LogInStepDef.java:34)
+at ✽.the "ggUsername and password do not match any user in this service." message should be displayed(file:///C:/Users/Qadir/eclipse-workspace/Selenium%20Udemy/CucumberFramework-%20TestNG/src/test/resources/Login.feature:7)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.junit.ComparisonFailure -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.qa.runners.MyTestNGRunnerPixelTest@4659191b]" started-at="2021-06-21T17:56:49 EDT" name="tearDownClass" finished-at="2021-06-21T17:56:51 EDT" duration-ms="1470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.qa.runners.MyTestNGRunnerPixelTest -->
+    </test> <!-- AndroidEmulator -->
+  </suite> <!-- Suite -->
+</testng-results>

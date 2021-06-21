@@ -1,0 +1,28 @@
+[Android_Android_Pixel4 INFO ] 2021-06-21 16:46:11.230 ServerManager:29 - Appium server started
+[Android_Android_Pixel4 INFO ] 2021-06-21 16:46:11.323 DriverManager:35 - Initializing driver
+[Android_Android_Pixel4 INFO ] 2021-06-21 16:46:11.326 CapabilitiesManager:40 - App url is C:\Users\Qadir\eclipse-workspace\Selenium Udemy\CucumberFramework- TestNG\src\test\resources\apps\Saucelabs.apk
+[Android_Android_Pixel4 INFO ] 2021-06-21 16:46:56.125 DriverManager:57 - Driver is initialized
+[Android_Android_Pixel4 INFO ] 2021-06-21 16:47:05.619 BasePage:74 - login with InvalidUserName
+[Android_Android_Pixel4 INFO ] 2021-06-21 16:47:07.434 BasePage:74 - password is secret_sauce
+[Android_Android_Pixel4 INFO ] 2021-06-21 16:47:08.307 BasePage:57 - press login button
+[Android_Android_Pixel4 INFO ] 2021-06-21 16:47:09.988 BasePage:100 - error text is - Username and password do not match any user in this service.
+[Android_Android_Pixel4 INFO ] 2021-06-21 16:47:12.913 VideoManager:36 - video path: Android_Android_Pixel4\Videos\Login with invalid user name.mp4
+[Android_Android_Pixel4 INFO ] 2021-06-21 17:20:05.118 ServerManager:29 - Appium server started
+[Android_Android_Pixel4 INFO ] 2021-06-21 17:20:05.237 DriverManager:35 - Initializing driver
+[Android_Android_Pixel4 INFO ] 2021-06-21 17:20:05.339 CapabilitiesManager:40 - App url is C:\Users\Qadir\eclipse-workspace\Selenium Udemy\CucumberFramework- TestNG\src\test\resources\apps\Saucelabs.apk
+[Android_Android_Pixel4 INFO ] 2021-06-21 17:20:58.532 DriverManager:57 - Driver is initialized
+[Android_Android_Pixel4 INFO ] 2021-06-21 17:21:02.889 BasePage:74 - login with InvalidUserName
+[Android_Android_Pixel4 INFO ] 2021-06-21 17:21:04.611 BasePage:74 - password is secret_sauce
+[Android_Android_Pixel4 INFO ] 2021-06-21 17:21:05.718 BasePage:57 - press login button
+[Android_Android_Pixel4 INFO ] 2021-06-21 17:21:06.651 BasePage:100 - error text is - Username and password do not match any user in this service.
+[Android_Android_Pixel4 INFO ] 2021-06-21 17:21:08.605 VideoManager:36 - video path: Android_Android_Pixel4\Videos\Login with invalid user name.mp4
+[Android_Android_Pixel4 INFO ] 2021-06-21 17:55:32.850 ServerManager:20 - starting appium server
+[Android_Android_Pixel4 INFO ] 2021-06-21 17:55:46.417 ServerManager:29 - Appium server started
+[Android_Android_Pixel4 INFO ] 2021-06-21 17:55:46.418 DriverManager:35 - Initializing driver
+[Android_Android_Pixel4 INFO ] 2021-06-21 17:55:46.421 CapabilitiesManager:40 - App url is C:\Users\Qadir\eclipse-workspace\Selenium Udemy\CucumberFramework- TestNG\src\test\resources\apps\Saucelabs.apk
+[Android_Android_Pixel4 INFO ] 2021-06-21 17:56:32.407 DriverManager:57 - Driver is initialized
+[Android_Android_Pixel4 INFO ] 2021-06-21 17:56:41.970 BasePage:74 - login with InvalidUserName
+[Android_Android_Pixel4 INFO ] 2021-06-21 17:56:43.255 BasePage:74 - password is secret_sauce
+[Android_Android_Pixel4 INFO ] 2021-06-21 17:56:43.889 BasePage:57 - press login button
+[Android_Android_Pixel4 INFO ] 2021-06-21 17:56:48.429 BasePage:100 - error text is - Username and password do not match any user in this service.
+[Android_Android_Pixel4 INFO ] 2021-06-21 17:56:49.961 VideoManager:36 - video path: Android_Android_Pixel4\Videos\Login with invalid user name.mp4

@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: com.qa.runners.MyRunnerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 63.533 sec <<< FAILURE!
+Login with invalid user name(Login Scenarios)  Time elapsed: 16.24 sec  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[]Username and passwor...> but was:<[gg]Username and passwor...>
+	at org.junit.Assert.assertEquals(Assert.java:115)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at com.qa.stepdef.LogInStepDef.theMessageShouldBeDisplayed(LogInStepDef.java:34)
+	at ?.the "ggUsername and password do not match any user in this service." message should be displayed(file:///C:/Users/Qadir/eclipse-workspace/Selenium%20Udemy/CucumberFramework/src/test/resources/Login.feature:7)
+

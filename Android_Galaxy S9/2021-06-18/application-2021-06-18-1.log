@@ -1,0 +1,100 @@
+[Android_Galaxy S9 INFO ] 2021-06-18 14:38:07.123 ServerManager:20 - starting appium server
+[Android_Galaxy S9 INFO ] 2021-06-18 14:38:10.240 ServerManager:29 - Appium server started
+[Android_Galaxy S9 INFO ] 2021-06-18 14:38:10.261 DriverManager:35 - Initializing driver
+[Android_Galaxy S9 INFO ] 2021-06-18 14:38:10.284 CapabilitiesManager:40 - App url is C:\Users\Qadir\eclipse-workspace\Selenium Udemy\CucumberFramework\src\test\resources\apps\Saucelabs.apk
+[Android_Galaxy S9 INFO ] 2021-06-18 14:38:21.899 DriverManager:57 - Driver is initialized
+[Android_Galaxy S9 INFO ] 2021-06-18 14:38:23.756 BasePage:74 - login with InvalidUserName
+[Android_Galaxy S9 INFO ] 2021-06-18 14:38:25.330 BasePage:74 - password is secret_sauce
+[Android_Galaxy S9 INFO ] 2021-06-18 14:38:26.675 BasePage:57 - press login button
+[Android_Galaxy S9 INFO ] 2021-06-18 14:38:27.098 BasePage:100 - error text is - Username and password do not match any user in this service.
+[Android_Galaxy S9 INFO ] 2021-06-18 14:38:32.174 VideoManager:36 - video path: Android_Galaxy S9\Videos\Login with invalid user name.mp4
+[Android_Galaxy S9 INFO ] 2021-06-18 16:17:57.002 ServerManager:20 - starting appium server
+[Android_Galaxy S9 INFO ] 2021-06-18 16:18:33.264 ServerManager:29 - Appium server started
+[Android_Galaxy S9 INFO ] 2021-06-18 16:18:33.359 DriverManager:35 - Initializing driver
+[Android_Galaxy S9 INFO ] 2021-06-18 16:18:33.419 CapabilitiesManager:40 - App url is C:\Users\Qadir\eclipse-workspace\Selenium Udemy\CucumberFramework\src\test\resources\apps\Saucelabs.apk
+[Android_Galaxy S9 INFO ] 2021-06-18 16:18:58.886 DriverManager:57 - Driver is initialized
+[Android_Galaxy S9 INFO ] 2021-06-18 16:19:01.797 BasePage:74 - login with InvalidUserName
+[Android_Galaxy S9 INFO ] 2021-06-18 16:19:03.026 BasePage:74 - password is secret_sauce
+[Android_Galaxy S9 INFO ] 2021-06-18 16:19:04.633 BasePage:57 - press login button
+[Android_Galaxy S9 INFO ] 2021-06-18 16:19:05.665 BasePage:100 - error text is - Username and password do not match any user in this service.
+[Android_Galaxy S9 INFO ] 2021-06-18 16:19:09.391 VideoManager:36 - video path: Android_Galaxy S9\Videos\Login with invalid user name.mp4
+[Android_Galaxy S9 INFO ] 2021-06-18 16:26:12.892 ServerManager:20 - starting appium server
+[Android_Galaxy S9 INFO ] 2021-06-18 16:26:30.108 ServerManager:29 - Appium server started
+[Android_Galaxy S9 INFO ] 2021-06-18 16:26:30.195 DriverManager:35 - Initializing driver
+[Android_Galaxy S9 INFO ] 2021-06-18 16:26:30.235 CapabilitiesManager:40 - App url is C:\Users\Qadir\eclipse-workspace\Selenium Udemy\CucumberFramework\src\test\resources\apps\Saucelabs.apk
+[Android_Galaxy S9 INFO ] 2021-06-18 16:26:50.200 DriverManager:57 - Driver is initialized
+[Android_Galaxy S9 INFO ] 2021-06-18 16:26:54.355 BasePage:74 - login with InvalidUserName
+[Android_Galaxy S9 INFO ] 2021-06-18 16:26:55.621 BasePage:74 - password is secret_sauce
+[Android_Galaxy S9 INFO ] 2021-06-18 16:26:57.198 BasePage:57 - press login button
+[Android_Galaxy S9 INFO ] 2021-06-18 16:26:58.365 BasePage:100 - error text is - Username and password do not match any user in this service.
+[Android_Galaxy S9 INFO ] 2021-06-18 16:27:01.377 VideoManager:36 - video path: Android_Galaxy S9\Videos\Login with invalid user name.mp4
+[Android_Galaxy S9 INFO ] 2021-06-18 16:38:33.301 ServerManager:20 - starting appium server
+[Android_Galaxy S9 INFO ] 2021-06-18 16:38:52.697 ServerManager:29 - Appium server started
+[Android_Galaxy S9 INFO ] 2021-06-18 16:38:52.721 DriverManager:35 - Initializing driver
+[Android_Galaxy S9 INFO ] 2021-06-18 16:38:52.793 CapabilitiesManager:40 - App url is C:\Users\Qadir\eclipse-workspace\Selenium Udemy\CucumberFramework\src\test\resources\apps\Saucelabs.apk
+[Android_Galaxy S9 INFO ] 2021-06-18 16:39:12.923 DriverManager:57 - Driver is initialized
+[Android_Galaxy S9 INFO ] 2021-06-18 16:39:16.361 BasePage:74 - login with InvalidUserName
+[Android_Galaxy S9 INFO ] 2021-06-18 16:39:18.673 BasePage:74 - password is secret_sauce
+[Android_Galaxy S9 INFO ] 2021-06-18 16:39:19.811 BasePage:57 - press login button
+[Android_Galaxy S9 INFO ] 2021-06-18 16:39:20.978 BasePage:100 - error text is - Username and password do not match any user in this service.
+[Android_Galaxy S9 INFO ] 2021-06-18 16:39:23.860 VideoManager:36 - video path: Android_Galaxy S9\Videos\Login with invalid user name.mp4
+[Android_Galaxy S9 INFO ] 2021-06-18 17:58:59.516 ServerManager:20 - starting appium server
+[Android_Galaxy S9 INFO ] 2021-06-18 17:59:02.309 ServerManager:29 - Appium server started
+[Android_Galaxy S9 INFO ] 2021-06-18 17:59:02.349 DriverManager:35 - Initializing driver
+[Android_Galaxy S9 INFO ] 2021-06-18 17:59:02.380 CapabilitiesManager:40 - App url is C:\Users\Qadir\eclipse-workspace\Selenium Udemy\CucumberFramework\src\test\resources\apps\Saucelabs.apk
+[Android_Galaxy S9 INFO ] 2021-06-18 17:59:14.496 DriverManager:57 - Driver is initialized
+[Android_Galaxy S9 INFO ] 2021-06-18 17:59:16.885 BasePage:74 - login with InvalidUserName
+[Android_Galaxy S9 INFO ] 2021-06-18 17:59:18.557 BasePage:74 - password is secret_sauce
+[Android_Galaxy S9 INFO ] 2021-06-18 17:59:19.778 BasePage:57 - press login button
+[Android_Galaxy S9 INFO ] 2021-06-18 17:59:20.921 BasePage:100 - error text is - Username and password do not match any user in this service.
+[Android_Galaxy S9 INFO ] 2021-06-18 17:59:24.715 VideoManager:36 - video path: Android_Galaxy S9\Videos\Login with invalid user name.mp4
+[Android_Galaxy S9 INFO ] 2021-06-18 18:02:00.024 ServerManager:20 - starting appium server
+[Android_Galaxy S9 INFO ] 2021-06-18 18:02:02.802 ServerManager:29 - Appium server started
+[Android_Galaxy S9 INFO ] 2021-06-18 18:02:02.838 DriverManager:35 - Initializing driver
+[Android_Galaxy S9 INFO ] 2021-06-18 18:02:02.872 CapabilitiesManager:40 - App url is C:\Users\Qadir\eclipse-workspace\Selenium Udemy\CucumberFramework\src\test\resources\apps\Saucelabs.apk
+[Android_Galaxy S9 INFO ] 2021-06-18 18:02:14.344 DriverManager:57 - Driver is initialized
+[Android_Galaxy S9 INFO ] 2021-06-18 18:02:16.835 BasePage:74 - login with InvalidUserName
+[Android_Galaxy S9 INFO ] 2021-06-18 18:02:18.975 BasePage:74 - password is secret_sauce
+[Android_Galaxy S9 INFO ] 2021-06-18 18:02:20.586 BasePage:57 - press login button
+[Android_Galaxy S9 INFO ] 2021-06-18 18:02:21.532 BasePage:100 - error text is - Username and password do not match any user in this service.
+[Android_Galaxy S9 INFO ] 2021-06-18 18:02:23.958 VideoManager:36 - video path: Android_Galaxy S9\Videos\Login with invalid user name.mp4
+[Android_Galaxy S9 INFO ] 2021-06-18 18:17:30.730 ServerManager:20 - starting appium server
+[Android_Galaxy S9 INFO ] 2021-06-18 18:17:33.357 ServerManager:29 - Appium server started
+[Android_Galaxy S9 INFO ] 2021-06-18 18:17:33.392 DriverManager:35 - Initializing driver
+[Android_Galaxy S9 INFO ] 2021-06-18 18:17:33.424 CapabilitiesManager:40 - App url is C:\Users\Qadir\eclipse-workspace\Selenium Udemy\CucumberFramework\src\test\resources\apps\Saucelabs.apk
+[Android_Galaxy S9 INFO ] 2021-06-18 18:17:46.326 DriverManager:57 - Driver is initialized
+[Android_Galaxy S9 INFO ] 2021-06-18 18:17:49.278 BasePage:74 - login with InvalidUserName
+[Android_Galaxy S9 INFO ] 2021-06-18 18:17:51.155 BasePage:74 - password is secret_sauce
+[Android_Galaxy S9 INFO ] 2021-06-18 18:17:52.364 BasePage:57 - press login button
+[Android_Galaxy S9 INFO ] 2021-06-18 18:17:53.250 BasePage:100 - error text is - Username and password do not match any user in this service.
+[Android_Galaxy S9 INFO ] 2021-06-18 18:17:55.034 VideoManager:36 - video path: Android_Galaxy S9\Videos\Login with invalid user name.mp4
+[Android_Galaxy S9 INFO ] 2021-06-18 18:21:49.817 ServerManager:20 - starting appium server
+[Android_Galaxy S9 INFO ] 2021-06-18 18:21:52.446 ServerManager:29 - Appium server started
+[Android_Galaxy S9 INFO ] 2021-06-18 18:21:52.512 DriverManager:35 - Initializing driver
+[Android_Galaxy S9 INFO ] 2021-06-18 18:21:52.543 CapabilitiesManager:40 - App url is C:\Users\Qadir\eclipse-workspace\Selenium Udemy\CucumberFramework\src\test\resources\apps\Saucelabs.apk
+[Android_Galaxy S9 INFO ] 2021-06-18 18:22:03.935 DriverManager:57 - Driver is initialized
+[Android_Galaxy S9 INFO ] 2021-06-18 18:22:06.192 BasePage:74 - login with InvalidUserName
+[Android_Galaxy S9 INFO ] 2021-06-18 18:22:07.756 BasePage:74 - password is secret_sauce
+[Android_Galaxy S9 INFO ] 2021-06-18 18:22:09.130 BasePage:57 - press login button
+[Android_Galaxy S9 INFO ] 2021-06-18 18:22:10.715 BasePage:100 - error text is - Username and password do not match any user in this service.
+[Android_Galaxy S9 INFO ] 2021-06-18 18:22:13.886 VideoManager:36 - video path: Android_Galaxy S9\Videos\Login with invalid user name.mp4
+[Android_Galaxy S9 INFO ] 2021-06-18 18:28:47.562 ServerManager:20 - starting appium server
+[Android_Galaxy S9 INFO ] 2021-06-18 18:28:50.443 ServerManager:29 - Appium server started
+[Android_Galaxy S9 INFO ] 2021-06-18 18:28:50.478 DriverManager:35 - Initializing driver
+[Android_Galaxy S9 INFO ] 2021-06-18 18:28:50.511 CapabilitiesManager:40 - App url is C:\Users\Qadir\eclipse-workspace\Selenium Udemy\CucumberFramework\src\test\resources\apps\Saucelabs.apk
+[Android_Galaxy S9 INFO ] 2021-06-18 18:29:03.779 DriverManager:57 - Driver is initialized
+[Android_Galaxy S9 INFO ] 2021-06-18 18:29:06.368 BasePage:74 - login with InvalidUserName
+[Android_Galaxy S9 INFO ] 2021-06-18 18:29:08.110 BasePage:74 - password is secret_sauce
+[Android_Galaxy S9 INFO ] 2021-06-18 18:29:09.304 BasePage:57 - press login button
+[Android_Galaxy S9 INFO ] 2021-06-18 18:29:10.262 BasePage:100 - error text is - Username and password do not match any user in this service.
+[Android_Galaxy S9 INFO ] 2021-06-18 18:29:13.233 VideoManager:36 - video path: Android_Galaxy S9\Videos\Login with invalid user name.mp4
+[Android_Galaxy S9 INFO ] 2021-06-18 18:36:51.273 ServerManager:20 - starting appium server
+[Android_Galaxy S9 INFO ] 2021-06-18 18:36:55.077 ServerManager:29 - Appium server started
+[Android_Galaxy S9 INFO ] 2021-06-18 18:36:55.121 DriverManager:35 - Initializing driver
+[Android_Galaxy S9 INFO ] 2021-06-18 18:36:55.149 CapabilitiesManager:40 - App url is C:\Users\Qadir\eclipse-workspace\Selenium Udemy\CucumberFramework\src\test\resources\apps\Saucelabs.apk
+[Android_Galaxy S9 INFO ] 2021-06-18 18:37:07.707 DriverManager:57 - Driver is initialized
+[Android_Galaxy S9 INFO ] 2021-06-18 18:37:12.614 BasePage:74 - login with InvalidUserName
+[Android_Galaxy S9 INFO ] 2021-06-18 18:37:14.510 BasePage:74 - password is secret_sauce
+[Android_Galaxy S9 INFO ] 2021-06-18 18:37:15.198 BasePage:57 - press login button
+[Android_Galaxy S9 INFO ] 2021-06-18 18:37:16.273 BasePage:100 - error text is - Username and password do not match any user in this service.
+[Android_Galaxy S9 INFO ] 2021-06-18 18:37:18.202 VideoManager:36 - video path: Android_Galaxy S9\Videos\Login with invalid user name.mp4
